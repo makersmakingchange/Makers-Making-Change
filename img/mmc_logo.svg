@@ -33,7 +33,7 @@
    fit-margin-bottom="25"
    fit-margin-right="25"
    inkscape:zoom="1.470131"
-   inkscape:cx="375.13663"
+   inkscape:cx="374.79653"
    inkscape:cy="99.650983"
    inkscape:window-width="1920"
    inkscape:window-height="1017"
@@ -61,12 +61,12 @@
 	.st2{fill:#26225E;}
 </style>
 <rect
-   style="opacity:1;fill:#ffffff;stroke:#b3b3b3;stroke-width:0.755906;stroke-linecap:round;stop-color:#000000"
+   style="opacity:1;fill:#fcfcfc;stroke:none;stroke-width:0.755906;stroke-linecap:round;stop-color:#000000;fill-opacity:1"
    id="rect950"
    width="589.45593"
    height="219.97797"
    x="-2.399893e-07"
-   y="5.9529151e-07" /><g
+   y="8.000045e-07" /><g
    id="g54"
    transform="translate(25.377953,25)">
 	<path
